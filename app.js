@@ -4,7 +4,7 @@
   const COOLDOWN_MS = 60_000; // 60 seconds
 
   // Your Apps Script Web App URL
-  const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxkpadakiVBXA8uYl2R5CEuHZqgOoKS9yjEX1gBWnZnA0nXl1aRq--dYhLHjYyuy8-2uQ/exec';
+  const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwYvbzp0w4iSH0FdnlyfshUtkrG_bOAtjNeBRBwUeMOd7JW4kUpRgNXhQRx89nJprg2jA/exec';
 
   const KEYS = {
     name: 'runner.name',
